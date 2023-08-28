@@ -15,8 +15,8 @@ Welcome to the **To Do Application** project! This application allows you to man
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/1.jpg)
-![Screenshot 2](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/1.jpg)
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/1.jpg">
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/2.jpg">
 
 ## Getting Started
 
