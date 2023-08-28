@@ -15,8 +15,8 @@ Welcome to the **To Do Application** project! This application allows you to man
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/1.jpg)
+![Screenshot 2](https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/ToDoApp/1.jpg)
 
 ## Getting Started
 
